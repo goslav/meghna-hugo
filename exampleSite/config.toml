@@ -1,4 +1,4 @@
-baseURL = "https://exquisitecopy.netlify.com"
+baseURL = "https://exquisitecopy.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
